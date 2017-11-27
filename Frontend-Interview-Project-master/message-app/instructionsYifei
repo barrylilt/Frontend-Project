@@ -1,0 +1,10 @@
+
+Run the Application
+
+1. Download or clone the project
+2. go to the message-app repo
+3. run 'npm start' 
+4. go to this url in the browser http://localhost:3000/#/
+
+Run the api server
+The procedure is the same as before to run the api server

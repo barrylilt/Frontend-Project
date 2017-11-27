@@ -1,0 +1,80 @@
+
+.content {
+        min-width: 80vw;
+        max-width: 80vw;
+        height: 100vh;
+}
+
+p{
+	display: inline;
+}
+
+.login {
+	color: #ff3333;
+}
+
+.roominfo{
+	height: 100px;
+}
+.messagebox{
+	background-color : #e6e6e6 ;
+	height: 70vh;
+	overflow-y:scroll;
+}
+
+.newmessage{
+	height: 10vh;
+}
+
+.loginuser{
+	color: #ff3333;
+}
+
+.loginuser, .otheruser {
+    display: block;
+    clear:both;
+}
+
+.loginuser span {
+    background-color: #ff3333;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    border-radius: 20px;
+    
+}
+
+
+.loginuser {   
+	padding: 10px 10px 10px 10px;
+    display: block;
+    float: right;
+}
+.otheruser span{
+    background-color: white;
+    color: black;
+     padding: 10px 10px 10px 10px;
+     border-radius: 20px;
+}
+
+.otheruser {
+	padding: 10px 10px;
+    display: block;
+    float: left;
+}
+
+#submitinput{
+	color: #66ccff;
+	background-color: white;
+	border-style: none;
+	padding-left: 25px;
+	font-size: 1.5em;
+}
+
+.input{
+	padding: 10px 10px 10px 10px;
+	width: 50em;
+}
+
+.newmessage{
+	padding-top: 20px;
+}

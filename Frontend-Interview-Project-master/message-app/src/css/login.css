@@ -1,0 +1,16 @@
+.Login {
+	padding-top: 40vh;
+}
+
+.form-control{
+	width: 300px;
+	padding: 10px 10px 10px 10px;
+	
+}
+
+.btn-block{
+	width: 320px;
+	padding: 10px 10px 10px 10px;
+	background-color: #ff3333;
+	color: white;
+}
